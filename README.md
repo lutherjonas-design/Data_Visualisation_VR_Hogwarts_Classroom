@@ -29,7 +29,8 @@ The data-processing scripts were kept separate from the web backend to support c
 
 ---
 
-## Architectural Notes
+## Architectural Notes & Academic Evolution
 
 - **Development under time constraints:** The parsing and analysis scripts were run locally and separately from the web backend. This made it possible to iterate on datasets without first integrating the analysis pipeline into the application.
 - **Potential integration:** The processing scripts are currently standalone. Integrating them into the FastAPI backend would require adapting them into service modules and testing them through the application.
+- **Frontend development:** The React frontend was developed while learning the framework and includes light and dark modes, a language selector, and reusable components and hooks.
