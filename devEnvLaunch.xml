@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+  <description>Data Visualisation</description>
+  <workspace>storyEnv.code-workspace</workspace>
+  <open>
+    <vscode/>
+    <terminal/>
+  </open>
+  <wait>
+    <docker build="true"/>
+  </wait>
+</project>

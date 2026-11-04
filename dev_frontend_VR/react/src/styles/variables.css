@@ -1,0 +1,100 @@
+/* src/styles/variables.css */
+@theme {
+  --color-custom-bg: var(--bg);
+  --color-custom-bg-soft: var(--bg-soft);
+  --color-custom-text: var(--text);
+  --color-custom-text-muted: var(--text-muted);
+  --color-custom-accent: var(--accent);
+  --color-custom-border: var(--border);
+
+  --color-custom-warning-good: var(--warning-good);
+  --color-custom-warning-warning: var(--warning-warning);
+  --color-custom-warning-error: var(--warning-error);
+
+  --color-custom-list-1: var(--list-1);
+  --color-custom-list-2: var(--list-2);
+  --color-custom-list-3: var(--list-3);
+  --color-custom-list-4: var(--list-4);
+  --color-custom-list-5: var(--list-5);
+  --color-custom-list-6: var(--list-6);
+  --color-custom-list-7: var(--list-7);
+  --color-custom-list-8: var(--list-8);
+  --color-custom-list-9: var(--list-9);
+  --color-custom-list-10: var(--list-10);
+  --color-custom-list-11: var(--list-11);
+  --color-custom-list-12: var(--list-12);
+  --color-custom-list-13: var(--list-13);
+  --color-custom-list-14: var(--list-14);
+  --color-custom-list-15: var(--list-15);
+  --color-custom-list-16: var(--list-16);
+  --color-custom-list-17: var(--list-17);
+  --color-custom-list-18: var(--list-18);
+  --color-custom-list-19: var(--list-19);
+  --color-custom-list-20: var(--list-20);
+}
+
+:root {
+  --bg: #ffffff;
+  --bg-soft: #f7f7f7;
+  --text: #111111;
+  --text-muted: #555555;
+  --accent: #7c3aed; /* Obsidian Purple */
+  --border: #e0e0e0;
+  --warning-good: #16a34a;
+  --warning-warning: #d97706;
+  --warning-error: #dc2626;
+
+  --list-1: #0066cc; /* Blue */
+  --list-2: #ffcc00; /* Yellow */
+  --list-3: #dd2c00; /* Red */
+  --list-4: #388e3c; /* Green */
+  --list-5: #ff5722; /* Orange */
+  --list-6: #00cccc; /* Cyan */
+  --list-7: #ff9800; /* Amber */
+  --list-8: #e91e63; /* Rose */
+  --list-9: #009688; /* Teal */
+  --list-10: #ff6f61; /* Coral */
+  --list-11: #0099ff; /* Azure */
+  --list-12: #8bc34a; /* Lime */
+  --list-13: #b71c1c; /* Crimson */
+  --list-14: #4caf50; /* Mint */
+  --list-15: #800000; /* Maroon */
+  --list-16: #cddc39; /* Chartreuse */
+  --list-17: #f48fb1; /* Pink */
+  --list-18: #1e1b4b; /* Deep Indigo / Dunkelblau */
+  --list-19: #047857; /* Emerald / Smaragdgrün */
+  --list-20: #78350f; /* Chocolate / Deep Brown */
+}
+
+.dark {
+  --bg: #0e0e10;       /* Deep Obsidian Night */
+  --bg-soft: #16161a;  /* Sidebar / Card Dark */
+  --text: #f3f3f3;     /* Sharp crisp text */
+  --text-muted: #b3b3b3;
+  --accent: #8b5cf6;   /* Electric purple */
+  --border: #242428;   /* Thin sleek borders */
+  --warning-good: #22c55e;
+  --warning-warning: #f59e0b;
+  --warning-error: #ef4444;
+  
+  --list-1: #60a5fa; /* Light Blue */
+  --list-2: #fde047; /* Light Yellow */
+  --list-3: #f87171; /* Light Red */
+  --list-4: #4ade80; /* Light Green */
+  --list-5: #fb923c; /* Light Orange */
+  --list-6: #22d3ee; /* Light Cyan */
+  --list-7: #fbbf24; /* Light Amber */
+  --list-8: #f472b6; /* Light Rose */
+  --list-9: #2dd4bf; /* Light Teal */
+  --list-10: #fca5a5; /* Light Coral */
+  --list-11: #38bdf8; /* Light Azure */
+  --list-12: #a3e635; /* Light Lime */
+  --list-13: #ef4444; /* Light Crimson */
+  --list-14: #6ee7b7; /* Light Mint */
+  --list-15: #fca5a5; /* Light Maroon/Soft Red */
+  --list-16: #bef226; /* Light Chartreuse */
+  --list-17: #f9a8d2; /* Soft Pink */
+  --list-18: #818cf8; /* Light Indigo (Deutlich heller als das Dunkelblau) */
+  --list-19: #34d399; /* Light Emerald (Kräftiges, leuchtendes Mint/Smaragd) */
+  --list-20: #cd9a62; /* Sand */
+}

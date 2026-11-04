@@ -1,0 +1,23 @@
+1174,46; HC_Pyramid (1); true
+1294,22; HC_Pyramid (1); true
+1294,48; HC_Pyramid (1); true
+1379,22; HC_Cuboid (1); true
+1532,72; HC_Pyramid (1); true
+1533,16; HC_Pyramid (1); true
+1533,24; HC_Pyramid; true
+1533,26; HC_Pyramid (1); true
+1533,62; HC_Pyramid; true
+1552,76; HC_Pyramid; true
+1552,84; HC_Pyramid (1); true
+1552,96; HC_Pyramid (1); true
+1555,9; HC_Pyramid (1); true
+1556,12; HC_Pyramid (1); true
+1557,62; HC_Pyramid (1); true
+1578,36; HC_Cuboid (4); true
+1590,32; HC_Cuboid (4); true
+1599,06; HC_Cuboid (4); true
+1599,14; HC_Cuboid (4); true
+1599,94; HC_Cuboid (3); true
+1917,22; HC_Cuboid (4); true
+1917,26; Interactables_Metronom; false
+1917,4; HC_Cube; true
